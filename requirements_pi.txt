@@ -1,0 +1,10 @@
+# 📟 WeatherX: Raspberry Pi 3B Dependencies (Hardware Ingestion)
+sudo
+smbus2
+bme280
+pandas
+numpy
+scikit-learn
+tensorflow-cpu
+joblib
+requests
