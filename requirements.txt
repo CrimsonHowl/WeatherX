@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+plotly
+requests
+tensorflow-cpu
+bme280
+smbus2

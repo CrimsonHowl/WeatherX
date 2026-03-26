@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WeatherX — AI Forecasting Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <div class="glass-container">
+        <!-- Sidebar: District Selection -->
+        <aside class="sidebar">
+            <div class="brand">
+                <span class="logo-icon">💠</span>
+                <h1>Weather<span>X</span></h1>
+            </div>
+            <div class="status-pill active">
+                <span class="dot"></span>
+                Data Fusion: Active
+            </div>
+            <nav class="district-list" id="district-nav">
+                <!-- Javascript will populate this -->
+                <div class="district-item selected">Coimbatore (Seed)</div>
+                <div class="district-item">Chennai</div>
+                <div class="district-item">Madurai</div>
+                <div class="district-item">Tiruppur</div>
+            </nav>
+        </aside>
+
+        <!-- Main Dashboard -->
+        <main class="dashboard-main">
+            <header class="main-header">
+                <div class="location-info">
+                    <h2 id="current-district">Coimbatore</h2>
+                    <p id="current-time">March 26, 2026 — 4:42 PM</p>
+                </div>
+                <div class="sensor-badge">
+                    <span class="icon">📡</span> BME280 Active
+                </div>
+            </header>
+
+            <section class="hero-stats">
+                <div class="temp-display">
+                    <div class="temp-value" id="main-temp">36<span>°C</span></div>
+                    <div class="weather-icon">☀️</div>
+                    <div class="weather-desc">Sunny & Clear</div>
+                </div>
+                <div class="grid-stats">
+                    <div class="stat-card">
+                        <span class="label">Humidity</span>
+                        <div class="value" id="main-hum">26%</div>
+                    </div>
+                    <div class="stat-card">
+                        <span class="label">Pressure</span>
+                        <div class="value" id="main-pres">1010 hPa</div>
+                    </div>
+                    <div class="stat-card">
+                        <span class="label">Ground Temp</span>
+                        <div class="value" id="main-gtemp">27°C</div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Forecast Chart -->
+            <section class="forecast-section">
+                <h3>6-Hour Neural Forecast</h3>
+                <div class="chart-container">
+                    <canvas id="forecastChart"></canvas>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <!-- Script to load data -->
+    <script src="app.js"></script>
+</body>
+</html>
