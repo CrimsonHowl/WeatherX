@@ -33,7 +33,7 @@ def run_pi_inference():
         time.sleep(0.5)
         sample = bme280.sample(bus, BME_ADDR, params)
         live_temp, live_hum = sample.temperature, sample.humidity
-        print(f"✅ BME280: {live_temp:.2f}C | {live_hum:.1f}%")
+        print(f"BME280: {live_temp:.2f}C | {live_hum:.1f}%")
     except:
         live_temp, live_hum = 31.5, 55.0
 
@@ -77,7 +77,7 @@ def run_pi_inference():
     
     with open('dashboard/latest_forecast.json', 'w') as f:
         json.dump(report, f, indent=4)
-    print("✅ Prediction Synced Successfully!")
+    print(" Prediction Synced Successfully!")
 
 if __name__ == "__main__":
     run_pi_inference()
