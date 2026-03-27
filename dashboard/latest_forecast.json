@@ -1,55 +1,55 @@
 {
-    "timestamp": "2026-03-27 16:06:17",
+    "timestamp": "2026-03-27 16:21:30",
     "seed_station": {
-        "temp": 32.39,
-        "hum": 84,
+        "temp": 32.18,
+        "hum": 20,
         "source": "Hybrid-IoT"
     },
     "forecasts": [
         {
             "district": "Ariyalur",
-            "temp": 30.8,
+            "temp": 30.94,
             "forecast": [
                 {
                     "hour": 0,
-                    "temp": 30.8,
-                    "hum": 84.0,
+                    "temp": 30.94,
+                    "hum": 20.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 1,
-                    "temp": 30.88,
-                    "hum": 82.5,
+                    "temp": 30.14,
+                    "hum": 24.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 2,
-                    "temp": 30.95,
-                    "hum": 81.0,
+                    "temp": 29.34,
+                    "hum": 28.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 3,
-                    "temp": 31.01,
-                    "hum": 79.5,
+                    "temp": 28.54,
+                    "hum": 32.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 4,
-                    "temp": 31.04,
-                    "hum": 78.0,
+                    "temp": 27.74,
+                    "hum": 36.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 5,
-                    "temp": 31.04,
-                    "hum": 76.5,
+                    "temp": 26.94,
+                    "hum": 40.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 6,
-                    "temp": 31.02,
-                    "hum": 75.0,
+                    "temp": 26.14,
+                    "hum": 44.0,
                     "rain": 0.0
                 }
             ],
@@ -58,48 +58,48 @@
         },
         {
             "district": "Chengalpattu",
-            "temp": 32.6,
+            "temp": 32.35,
             "forecast": [
                 {
                     "hour": 0,
-                    "temp": 32.6,
-                    "hum": 84.0,
+                    "temp": 32.35,
+                    "hum": 20.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 1,
-                    "temp": 33.05,
-                    "hum": 82.5,
+                    "temp": 31.55,
+                    "hum": 24.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 2,
-                    "temp": 33.45,
-                    "hum": 81.0,
+                    "temp": 30.75,
+                    "hum": 28.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 3,
-                    "temp": 33.75,
-                    "hum": 79.5,
+                    "temp": 29.95,
+                    "hum": 32.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 4,
-                    "temp": 33.93,
-                    "hum": 78.0,
+                    "temp": 29.15,
+                    "hum": 36.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 5,
-                    "temp": 33.97,
-                    "hum": 76.5,
+                    "temp": 28.35,
+                    "hum": 40.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 6,
-                    "temp": 33.85,
-                    "hum": 75.0,
+                    "temp": 27.55,
+                    "hum": 44.0,
                     "rain": 0.0
                 }
             ],
@@ -108,49 +108,49 @@
         },
         {
             "district": "Chennai",
-            "temp": 35.33,
+            "temp": 34.0,
             "forecast": [
                 {
                     "hour": 0,
-                    "temp": 35.33,
-                    "hum": 84.0,
-                    "rain": 0.04
+                    "temp": 34.0,
+                    "hum": 20.0,
+                    "rain": 0.0
                 },
                 {
                     "hour": 1,
-                    "temp": 35.82,
-                    "hum": 82.5,
-                    "rain": 0.04
+                    "temp": 33.2,
+                    "hum": 24.0,
+                    "rain": 0.0
                 },
                 {
                     "hour": 2,
-                    "temp": 36.27,
-                    "hum": 81.0,
-                    "rain": 0.04
+                    "temp": 32.4,
+                    "hum": 28.0,
+                    "rain": 0.0
                 },
                 {
                     "hour": 3,
-                    "temp": 36.61,
-                    "hum": 79.5,
-                    "rain": 0.04
+                    "temp": 31.6,
+                    "hum": 32.0,
+                    "rain": 0.0
                 },
                 {
                     "hour": 4,
-                    "temp": 36.8,
-                    "hum": 78.0,
-                    "rain": 0.04
+                    "temp": 30.8,
+                    "hum": 36.0,
+                    "rain": 0.0
                 },
                 {
                     "hour": 5,
-                    "temp": 36.84,
-                    "hum": 76.5,
-                    "rain": 0.04
+                    "temp": 30.0,
+                    "hum": 40.0,
+                    "rain": 0.0
                 },
                 {
                     "hour": 6,
-                    "temp": 36.71,
-                    "hum": 75.0,
-                    "rain": 0.04
+                    "temp": 29.2,
+                    "hum": 44.0,
+                    "rain": 0.0
                 }
             ],
             "lat": 13.08,
@@ -158,48 +158,48 @@
         },
         {
             "district": "Coimbatore",
-            "temp": 30.64,
+            "temp": 30.83,
             "forecast": [
                 {
                     "hour": 0,
-                    "temp": 30.64,
-                    "hum": 84.0,
+                    "temp": 30.83,
+                    "hum": 20.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 1,
-                    "temp": 30.7,
-                    "hum": 82.5,
+                    "temp": 30.03,
+                    "hum": 24.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 2,
-                    "temp": 30.74,
-                    "hum": 81.0,
+                    "temp": 29.23,
+                    "hum": 28.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 3,
-                    "temp": 30.78,
-                    "hum": 79.5,
+                    "temp": 28.43,
+                    "hum": 32.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 4,
-                    "temp": 30.8,
-                    "hum": 78.0,
+                    "temp": 27.63,
+                    "hum": 36.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 5,
-                    "temp": 30.8,
-                    "hum": 76.5,
+                    "temp": 26.83,
+                    "hum": 40.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 6,
-                    "temp": 30.79,
-                    "hum": 75.0,
+                    "temp": 26.03,
+                    "hum": 44.0,
                     "rain": 0.0
                 }
             ],
@@ -208,48 +208,48 @@
         },
         {
             "district": "Cuddalore",
-            "temp": 32.55,
+            "temp": 32.31,
             "forecast": [
                 {
                     "hour": 0,
-                    "temp": 32.55,
-                    "hum": 84.0,
+                    "temp": 32.31,
+                    "hum": 20.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 1,
-                    "temp": 32.99,
-                    "hum": 82.5,
+                    "temp": 31.51,
+                    "hum": 24.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 2,
-                    "temp": 33.39,
-                    "hum": 81.0,
+                    "temp": 30.71,
+                    "hum": 28.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 3,
-                    "temp": 33.69,
-                    "hum": 79.5,
+                    "temp": 29.91,
+                    "hum": 32.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 4,
-                    "temp": 33.86,
-                    "hum": 78.0,
+                    "temp": 29.11,
+                    "hum": 36.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 5,
-                    "temp": 33.9,
-                    "hum": 76.5,
+                    "temp": 28.31,
+                    "hum": 40.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 6,
-                    "temp": 33.78,
-                    "hum": 75.0,
+                    "temp": 27.51,
+                    "hum": 44.0,
                     "rain": 0.0
                 }
             ],
@@ -258,48 +258,48 @@
         },
         {
             "district": "Dharmapuri",
-            "temp": 32.79,
+            "temp": 32.42,
             "forecast": [
                 {
                     "hour": 0,
-                    "temp": 32.79,
-                    "hum": 84.0,
+                    "temp": 32.42,
+                    "hum": 20.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 1,
-                    "temp": 33.28,
-                    "hum": 82.5,
+                    "temp": 31.62,
+                    "hum": 24.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 2,
-                    "temp": 33.72,
-                    "hum": 81.0,
+                    "temp": 30.82,
+                    "hum": 28.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 3,
-                    "temp": 34.05,
-                    "hum": 79.5,
+                    "temp": 30.02,
+                    "hum": 32.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 4,
-                    "temp": 34.25,
-                    "hum": 78.0,
+                    "temp": 29.22,
+                    "hum": 36.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 5,
-                    "temp": 34.28,
-                    "hum": 76.5,
+                    "temp": 28.42,
+                    "hum": 40.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 6,
-                    "temp": 34.16,
-                    "hum": 75.0,
+                    "temp": 27.62,
+                    "hum": 44.0,
                     "rain": 0.0
                 }
             ],
@@ -308,48 +308,48 @@
         },
         {
             "district": "Dindigul",
-            "temp": 30.58,
+            "temp": 30.79,
             "forecast": [
                 {
                     "hour": 0,
-                    "temp": 30.58,
-                    "hum": 84.0,
+                    "temp": 30.79,
+                    "hum": 20.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 1,
-                    "temp": 30.62,
-                    "hum": 82.5,
+                    "temp": 29.99,
+                    "hum": 24.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 2,
-                    "temp": 30.65,
-                    "hum": 81.0,
+                    "temp": 29.19,
+                    "hum": 28.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 3,
-                    "temp": 30.68,
-                    "hum": 79.5,
+                    "temp": 28.39,
+                    "hum": 32.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 4,
-                    "temp": 30.7,
-                    "hum": 78.0,
+                    "temp": 27.59,
+                    "hum": 36.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 5,
-                    "temp": 30.7,
-                    "hum": 76.5,
+                    "temp": 26.79,
+                    "hum": 40.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 6,
-                    "temp": 30.69,
-                    "hum": 75.0,
+                    "temp": 25.99,
+                    "hum": 44.0,
                     "rain": 0.0
                 }
             ],
@@ -358,48 +358,48 @@
         },
         {
             "district": "Erode",
-            "temp": 32.5,
+            "temp": 32.26,
             "forecast": [
                 {
                     "hour": 0,
-                    "temp": 32.5,
-                    "hum": 84.0,
+                    "temp": 32.26,
+                    "hum": 20.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 1,
-                    "temp": 32.94,
-                    "hum": 82.5,
+                    "temp": 31.46,
+                    "hum": 24.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 2,
-                    "temp": 33.32,
-                    "hum": 81.0,
+                    "temp": 30.66,
+                    "hum": 28.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 3,
-                    "temp": 33.61,
-                    "hum": 79.5,
+                    "temp": 29.86,
+                    "hum": 32.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 4,
-                    "temp": 33.79,
-                    "hum": 78.0,
+                    "temp": 29.06,
+                    "hum": 36.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 5,
-                    "temp": 33.82,
-                    "hum": 76.5,
+                    "temp": 28.26,
+                    "hum": 40.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 6,
-                    "temp": 33.7,
-                    "hum": 75.0,
+                    "temp": 27.46,
+                    "hum": 44.0,
                     "rain": 0.0
                 }
             ],
@@ -408,48 +408,48 @@
         },
         {
             "district": "Kallakurichi",
-            "temp": 32.79,
+            "temp": 32.46,
             "forecast": [
                 {
                     "hour": 0,
-                    "temp": 32.79,
-                    "hum": 84.0,
+                    "temp": 32.46,
+                    "hum": 20.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 1,
-                    "temp": 33.28,
-                    "hum": 82.5,
+                    "temp": 31.66,
+                    "hum": 24.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 2,
-                    "temp": 33.71,
-                    "hum": 81.0,
+                    "temp": 30.86,
+                    "hum": 28.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 3,
-                    "temp": 34.04,
-                    "hum": 79.5,
+                    "temp": 30.06,
+                    "hum": 32.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 4,
-                    "temp": 34.24,
-                    "hum": 78.0,
+                    "temp": 29.26,
+                    "hum": 36.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 5,
-                    "temp": 34.27,
-                    "hum": 76.5,
+                    "temp": 28.46,
+                    "hum": 40.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 6,
-                    "temp": 34.15,
-                    "hum": 75.0,
+                    "temp": 27.66,
+                    "hum": 44.0,
                     "rain": 0.0
                 }
             ],
@@ -458,48 +458,48 @@
         },
         {
             "district": "Kanchipuram",
-            "temp": 30.57,
+            "temp": 30.78,
             "forecast": [
                 {
                     "hour": 0,
-                    "temp": 30.57,
-                    "hum": 84.0,
+                    "temp": 30.78,
+                    "hum": 20.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 1,
-                    "temp": 30.61,
-                    "hum": 82.5,
+                    "temp": 29.98,
+                    "hum": 24.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 2,
-                    "temp": 30.64,
-                    "hum": 81.0,
+                    "temp": 29.18,
+                    "hum": 28.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 3,
-                    "temp": 30.66,
-                    "hum": 79.5,
+                    "temp": 28.38,
+                    "hum": 32.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 4,
-                    "temp": 30.68,
-                    "hum": 78.0,
+                    "temp": 27.58,
+                    "hum": 36.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 5,
-                    "temp": 30.68,
-                    "hum": 76.5,
+                    "temp": 26.78,
+                    "hum": 40.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 6,
-                    "temp": 30.67,
-                    "hum": 75.0,
+                    "temp": 25.98,
+                    "hum": 44.0,
                     "rain": 0.0
                 }
             ],
@@ -508,48 +508,48 @@
         },
         {
             "district": "Kanyakumari",
-            "temp": 32.45,
+            "temp": 32.2,
             "forecast": [
                 {
                     "hour": 0,
-                    "temp": 32.45,
-                    "hum": 84.0,
+                    "temp": 32.2,
+                    "hum": 20.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 1,
-                    "temp": 32.87,
-                    "hum": 82.5,
+                    "temp": 31.4,
+                    "hum": 24.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 2,
-                    "temp": 33.24,
-                    "hum": 81.0,
+                    "temp": 30.6,
+                    "hum": 28.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 3,
-                    "temp": 33.53,
-                    "hum": 79.5,
+                    "temp": 29.8,
+                    "hum": 32.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 4,
-                    "temp": 33.7,
-                    "hum": 78.0,
+                    "temp": 29.0,
+                    "hum": 36.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 5,
-                    "temp": 33.73,
-                    "hum": 76.5,
+                    "temp": 28.2,
+                    "hum": 40.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 6,
-                    "temp": 33.62,
-                    "hum": 75.0,
+                    "temp": 27.4,
+                    "hum": 44.0,
                     "rain": 0.0
                 }
             ],
@@ -558,49 +558,49 @@
         },
         {
             "district": "Karur",
-            "temp": 32.82,
+            "temp": 32.52,
             "forecast": [
                 {
                     "hour": 0,
-                    "temp": 32.82,
-                    "hum": 84.0,
-                    "rain": 0.03
+                    "temp": 32.52,
+                    "hum": 20.0,
+                    "rain": 0.0
                 },
                 {
                     "hour": 1,
-                    "temp": 33.31,
-                    "hum": 82.5,
-                    "rain": 0.03
+                    "temp": 31.72,
+                    "hum": 24.0,
+                    "rain": 0.0
                 },
                 {
                     "hour": 2,
-                    "temp": 33.75,
-                    "hum": 81.0,
-                    "rain": 0.03
+                    "temp": 30.92,
+                    "hum": 28.0,
+                    "rain": 0.0
                 },
                 {
                     "hour": 3,
-                    "temp": 34.09,
-                    "hum": 79.5,
-                    "rain": 0.03
+                    "temp": 30.12,
+                    "hum": 32.0,
+                    "rain": 0.0
                 },
                 {
                     "hour": 4,
-                    "temp": 34.29,
-                    "hum": 78.0,
-                    "rain": 0.03
+                    "temp": 29.32,
+                    "hum": 36.0,
+                    "rain": 0.0
                 },
                 {
                     "hour": 5,
-                    "temp": 34.32,
-                    "hum": 76.5,
-                    "rain": 0.03
+                    "temp": 28.52,
+                    "hum": 40.0,
+                    "rain": 0.0
                 },
                 {
                     "hour": 6,
-                    "temp": 34.19,
-                    "hum": 75.0,
-                    "rain": 0.03
+                    "temp": 27.72,
+                    "hum": 44.0,
+                    "rain": 0.0
                 }
             ],
             "lat": 11.01,
@@ -608,48 +608,48 @@
         },
         {
             "district": "Krishnagiri",
-            "temp": 30.57,
+            "temp": 30.78,
             "forecast": [
                 {
                     "hour": 0,
-                    "temp": 30.57,
-                    "hum": 84.0,
+                    "temp": 30.78,
+                    "hum": 20.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 1,
-                    "temp": 30.61,
-                    "hum": 82.5,
+                    "temp": 29.98,
+                    "hum": 24.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 2,
-                    "temp": 30.64,
-                    "hum": 81.0,
+                    "temp": 29.18,
+                    "hum": 28.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 3,
-                    "temp": 30.66,
-                    "hum": 79.5,
+                    "temp": 28.38,
+                    "hum": 32.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 4,
-                    "temp": 30.68,
-                    "hum": 78.0,
+                    "temp": 27.58,
+                    "hum": 36.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 5,
-                    "temp": 30.68,
-                    "hum": 76.5,
+                    "temp": 26.78,
+                    "hum": 40.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 6,
-                    "temp": 30.67,
-                    "hum": 75.0,
+                    "temp": 25.98,
+                    "hum": 44.0,
                     "rain": 0.0
                 }
             ],
@@ -658,48 +658,48 @@
         },
         {
             "district": "Madurai",
-            "temp": 34.94,
+            "temp": 34.0,
             "forecast": [
                 {
                     "hour": 0,
-                    "temp": 34.94,
-                    "hum": 84.0,
+                    "temp": 34.0,
+                    "hum": 20.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 1,
-                    "temp": 35.36,
-                    "hum": 82.5,
+                    "temp": 33.2,
+                    "hum": 24.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 2,
-                    "temp": 35.73,
-                    "hum": 81.0,
+                    "temp": 32.4,
+                    "hum": 28.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 3,
-                    "temp": 36.01,
-                    "hum": 79.5,
+                    "temp": 31.6,
+                    "hum": 32.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 4,
-                    "temp": 36.18,
-                    "hum": 78.0,
+                    "temp": 30.8,
+                    "hum": 36.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 5,
-                    "temp": 36.21,
-                    "hum": 76.5,
+                    "temp": 30.0,
+                    "hum": 40.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 6,
-                    "temp": 36.1,
-                    "hum": 75.0,
+                    "temp": 29.2,
+                    "hum": 44.0,
                     "rain": 0.0
                 }
             ],
@@ -708,49 +708,49 @@
         },
         {
             "district": "Mayiladuthurai",
-            "temp": 32.83,
+            "temp": 32.52,
             "forecast": [
                 {
                     "hour": 0,
-                    "temp": 32.83,
-                    "hum": 84.0,
-                    "rain": 0.05
+                    "temp": 32.52,
+                    "hum": 20.0,
+                    "rain": 0.0
                 },
                 {
                     "hour": 1,
-                    "temp": 33.33,
-                    "hum": 82.5,
-                    "rain": 0.05
+                    "temp": 31.72,
+                    "hum": 24.0,
+                    "rain": 0.0
                 },
                 {
                     "hour": 2,
-                    "temp": 33.77,
-                    "hum": 81.0,
-                    "rain": 0.05
+                    "temp": 30.92,
+                    "hum": 28.0,
+                    "rain": 0.0
                 },
                 {
                     "hour": 3,
-                    "temp": 34.12,
-                    "hum": 79.5,
-                    "rain": 0.05
+                    "temp": 30.12,
+                    "hum": 32.0,
+                    "rain": 0.0
                 },
                 {
                     "hour": 4,
-                    "temp": 34.31,
-                    "hum": 78.0,
-                    "rain": 0.05
+                    "temp": 29.32,
+                    "hum": 36.0,
+                    "rain": 0.0
                 },
                 {
                     "hour": 5,
-                    "temp": 34.35,
-                    "hum": 76.5,
-                    "rain": 0.05
+                    "temp": 28.52,
+                    "hum": 40.0,
+                    "rain": 0.0
                 },
                 {
                     "hour": 6,
-                    "temp": 34.22,
-                    "hum": 75.0,
-                    "rain": 0.05
+                    "temp": 27.72,
+                    "hum": 44.0,
+                    "rain": 0.0
                 }
             ],
             "lat": 11.01,
@@ -758,48 +758,48 @@
         },
         {
             "district": "Nagapattinam",
-            "temp": 30.57,
+            "temp": 30.79,
             "forecast": [
                 {
                     "hour": 0,
-                    "temp": 30.57,
-                    "hum": 84.0,
+                    "temp": 30.79,
+                    "hum": 20.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 1,
-                    "temp": 30.61,
-                    "hum": 82.5,
+                    "temp": 29.99,
+                    "hum": 24.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 2,
-                    "temp": 30.64,
-                    "hum": 81.0,
+                    "temp": 29.19,
+                    "hum": 28.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 3,
-                    "temp": 30.67,
-                    "hum": 79.5,
+                    "temp": 28.39,
+                    "hum": 32.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 4,
-                    "temp": 30.68,
-                    "hum": 78.0,
+                    "temp": 27.59,
+                    "hum": 36.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 5,
-                    "temp": 30.69,
-                    "hum": 76.5,
+                    "temp": 26.79,
+                    "hum": 40.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 6,
-                    "temp": 30.68,
-                    "hum": 75.0,
+                    "temp": 25.99,
+                    "hum": 44.0,
                     "rain": 0.0
                 }
             ],
@@ -808,48 +808,48 @@
         },
         {
             "district": "Namakkal",
-            "temp": 32.43,
+            "temp": 32.14,
             "forecast": [
                 {
                     "hour": 0,
-                    "temp": 32.43,
-                    "hum": 84.0,
+                    "temp": 32.14,
+                    "hum": 20.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 1,
-                    "temp": 32.84,
-                    "hum": 82.5,
+                    "temp": 31.34,
+                    "hum": 24.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 2,
-                    "temp": 33.21,
-                    "hum": 81.0,
+                    "temp": 30.54,
+                    "hum": 28.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 3,
-                    "temp": 33.49,
-                    "hum": 79.5,
+                    "temp": 29.74,
+                    "hum": 32.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 4,
-                    "temp": 33.66,
-                    "hum": 78.0,
+                    "temp": 28.94,
+                    "hum": 36.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 5,
-                    "temp": 33.69,
-                    "hum": 76.5,
+                    "temp": 28.14,
+                    "hum": 40.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 6,
-                    "temp": 33.58,
-                    "hum": 75.0,
+                    "temp": 27.34,
+                    "hum": 44.0,
                     "rain": 0.0
                 }
             ],
@@ -858,48 +858,48 @@
         },
         {
             "district": "Nilgiris",
-            "temp": 24.0,
+            "temp": 20.48,
             "forecast": [
                 {
                     "hour": 0,
-                    "temp": 24.0,
-                    "hum": 84.0,
+                    "temp": 20.48,
+                    "hum": 20.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 1,
-                    "temp": 24.0,
-                    "hum": 82.5,
+                    "temp": 19.68,
+                    "hum": 24.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 2,
-                    "temp": 24.0,
-                    "hum": 81.0,
+                    "temp": 18.88,
+                    "hum": 28.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 3,
-                    "temp": 24.0,
-                    "hum": 79.5,
+                    "temp": 18.08,
+                    "hum": 32.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 4,
-                    "temp": 24.0,
-                    "hum": 78.0,
+                    "temp": 17.28,
+                    "hum": 36.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 5,
-                    "temp": 24.0,
-                    "hum": 76.5,
+                    "temp": 16.48,
+                    "hum": 40.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 6,
-                    "temp": 24.0,
-                    "hum": 75.0,
+                    "temp": 15.68,
+                    "hum": 44.0,
                     "rain": 0.0
                 }
             ],
@@ -908,48 +908,48 @@
         },
         {
             "district": "Perambalur",
-            "temp": 30.8,
+            "temp": 30.94,
             "forecast": [
                 {
                     "hour": 0,
-                    "temp": 30.8,
-                    "hum": 84.0,
+                    "temp": 30.94,
+                    "hum": 20.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 1,
-                    "temp": 30.88,
-                    "hum": 82.5,
+                    "temp": 30.14,
+                    "hum": 24.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 2,
-                    "temp": 30.95,
-                    "hum": 81.0,
+                    "temp": 29.34,
+                    "hum": 28.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 3,
-                    "temp": 31.01,
-                    "hum": 79.5,
+                    "temp": 28.54,
+                    "hum": 32.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 4,
-                    "temp": 31.04,
-                    "hum": 78.0,
+                    "temp": 27.74,
+                    "hum": 36.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 5,
-                    "temp": 31.04,
-                    "hum": 76.5,
+                    "temp": 26.94,
+                    "hum": 40.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 6,
-                    "temp": 31.02,
-                    "hum": 75.0,
+                    "temp": 26.14,
+                    "hum": 44.0,
                     "rain": 0.0
                 }
             ],
@@ -958,48 +958,48 @@
         },
         {
             "district": "Pudukkottai",
-            "temp": 32.6,
+            "temp": 32.35,
             "forecast": [
                 {
                     "hour": 0,
-                    "temp": 32.6,
-                    "hum": 84.0,
+                    "temp": 32.35,
+                    "hum": 20.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 1,
-                    "temp": 33.05,
-                    "hum": 82.5,
+                    "temp": 31.55,
+                    "hum": 24.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 2,
-                    "temp": 33.45,
-                    "hum": 81.0,
+                    "temp": 30.75,
+                    "hum": 28.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 3,
-                    "temp": 33.75,
-                    "hum": 79.5,
+                    "temp": 29.95,
+                    "hum": 32.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 4,
-                    "temp": 33.93,
-                    "hum": 78.0,
+                    "temp": 29.15,
+                    "hum": 36.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 5,
-                    "temp": 33.97,
-                    "hum": 76.5,
+                    "temp": 28.35,
+                    "hum": 40.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 6,
-                    "temp": 33.85,
-                    "hum": 75.0,
+                    "temp": 27.55,
+                    "hum": 44.0,
                     "rain": 0.0
                 }
             ],
@@ -1008,49 +1008,49 @@
         },
         {
             "district": "Ramanathapuram",
-            "temp": 32.83,
+            "temp": 32.43,
             "forecast": [
                 {
                     "hour": 0,
-                    "temp": 32.83,
-                    "hum": 84.0,
-                    "rain": 0.04
+                    "temp": 32.43,
+                    "hum": 20.0,
+                    "rain": 0.0
                 },
                 {
                     "hour": 1,
-                    "temp": 33.32,
-                    "hum": 82.5,
-                    "rain": 0.04
+                    "temp": 31.63,
+                    "hum": 24.0,
+                    "rain": 0.0
                 },
                 {
                     "hour": 2,
-                    "temp": 33.77,
-                    "hum": 81.0,
-                    "rain": 0.04
+                    "temp": 30.83,
+                    "hum": 28.0,
+                    "rain": 0.0
                 },
                 {
                     "hour": 3,
-                    "temp": 34.11,
-                    "hum": 79.5,
-                    "rain": 0.04
+                    "temp": 30.03,
+                    "hum": 32.0,
+                    "rain": 0.0
                 },
                 {
                     "hour": 4,
-                    "temp": 34.3,
-                    "hum": 78.0,
-                    "rain": 0.04
+                    "temp": 29.23,
+                    "hum": 36.0,
+                    "rain": 0.0
                 },
                 {
                     "hour": 5,
-                    "temp": 34.34,
-                    "hum": 76.5,
-                    "rain": 0.04
+                    "temp": 28.43,
+                    "hum": 40.0,
+                    "rain": 0.0
                 },
                 {
                     "hour": 6,
-                    "temp": 34.21,
-                    "hum": 75.0,
-                    "rain": 0.04
+                    "temp": 27.63,
+                    "hum": 44.0,
+                    "rain": 0.0
                 }
             ],
             "lat": 11.01,
@@ -1058,48 +1058,48 @@
         },
         {
             "district": "Ranipet",
-            "temp": 30.64,
+            "temp": 30.83,
             "forecast": [
                 {
                     "hour": 0,
-                    "temp": 30.64,
-                    "hum": 84.0,
+                    "temp": 30.83,
+                    "hum": 20.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 1,
-                    "temp": 30.7,
-                    "hum": 82.5,
+                    "temp": 30.03,
+                    "hum": 24.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 2,
-                    "temp": 30.74,
-                    "hum": 81.0,
+                    "temp": 29.23,
+                    "hum": 28.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 3,
-                    "temp": 30.78,
-                    "hum": 79.5,
+                    "temp": 28.43,
+                    "hum": 32.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 4,
-                    "temp": 30.8,
-                    "hum": 78.0,
+                    "temp": 27.63,
+                    "hum": 36.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 5,
-                    "temp": 30.8,
-                    "hum": 76.5,
+                    "temp": 26.83,
+                    "hum": 40.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 6,
-                    "temp": 30.79,
-                    "hum": 75.0,
+                    "temp": 26.03,
+                    "hum": 44.0,
                     "rain": 0.0
                 }
             ],
@@ -1108,48 +1108,48 @@
         },
         {
             "district": "Salem",
-            "temp": 32.55,
+            "temp": 32.31,
             "forecast": [
                 {
                     "hour": 0,
-                    "temp": 32.55,
-                    "hum": 84.0,
+                    "temp": 32.31,
+                    "hum": 20.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 1,
-                    "temp": 32.99,
-                    "hum": 82.5,
+                    "temp": 31.51,
+                    "hum": 24.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 2,
-                    "temp": 33.39,
-                    "hum": 81.0,
+                    "temp": 30.71,
+                    "hum": 28.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 3,
-                    "temp": 33.69,
-                    "hum": 79.5,
+                    "temp": 29.91,
+                    "hum": 32.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 4,
-                    "temp": 33.86,
-                    "hum": 78.0,
+                    "temp": 29.11,
+                    "hum": 36.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 5,
-                    "temp": 33.9,
-                    "hum": 76.5,
+                    "temp": 28.31,
+                    "hum": 40.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 6,
-                    "temp": 33.78,
-                    "hum": 75.0,
+                    "temp": 27.51,
+                    "hum": 44.0,
                     "rain": 0.0
                 }
             ],
@@ -1158,48 +1158,48 @@
         },
         {
             "district": "Sivaganga",
-            "temp": 32.79,
+            "temp": 32.42,
             "forecast": [
                 {
                     "hour": 0,
-                    "temp": 32.79,
-                    "hum": 84.0,
+                    "temp": 32.42,
+                    "hum": 20.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 1,
-                    "temp": 33.28,
-                    "hum": 82.5,
+                    "temp": 31.62,
+                    "hum": 24.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 2,
-                    "temp": 33.72,
-                    "hum": 81.0,
+                    "temp": 30.82,
+                    "hum": 28.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 3,
-                    "temp": 34.05,
-                    "hum": 79.5,
+                    "temp": 30.02,
+                    "hum": 32.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 4,
-                    "temp": 34.25,
-                    "hum": 78.0,
+                    "temp": 29.22,
+                    "hum": 36.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 5,
-                    "temp": 34.28,
-                    "hum": 76.5,
+                    "temp": 28.42,
+                    "hum": 40.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 6,
-                    "temp": 34.16,
-                    "hum": 75.0,
+                    "temp": 27.62,
+                    "hum": 44.0,
                     "rain": 0.0
                 }
             ],
@@ -1208,48 +1208,48 @@
         },
         {
             "district": "Tenkasi",
-            "temp": 30.58,
+            "temp": 30.79,
             "forecast": [
                 {
                     "hour": 0,
-                    "temp": 30.58,
-                    "hum": 84.0,
+                    "temp": 30.79,
+                    "hum": 20.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 1,
-                    "temp": 30.62,
-                    "hum": 82.5,
+                    "temp": 29.99,
+                    "hum": 24.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 2,
-                    "temp": 30.65,
-                    "hum": 81.0,
+                    "temp": 29.19,
+                    "hum": 28.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 3,
-                    "temp": 30.68,
-                    "hum": 79.5,
+                    "temp": 28.39,
+                    "hum": 32.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 4,
-                    "temp": 30.7,
-                    "hum": 78.0,
+                    "temp": 27.59,
+                    "hum": 36.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 5,
-                    "temp": 30.7,
-                    "hum": 76.5,
+                    "temp": 26.79,
+                    "hum": 40.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 6,
-                    "temp": 30.69,
-                    "hum": 75.0,
+                    "temp": 25.99,
+                    "hum": 44.0,
                     "rain": 0.0
                 }
             ],
@@ -1258,48 +1258,48 @@
         },
         {
             "district": "Thanjavur",
-            "temp": 32.5,
+            "temp": 32.26,
             "forecast": [
                 {
                     "hour": 0,
-                    "temp": 32.5,
-                    "hum": 84.0,
+                    "temp": 32.26,
+                    "hum": 20.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 1,
-                    "temp": 32.94,
-                    "hum": 82.5,
+                    "temp": 31.46,
+                    "hum": 24.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 2,
-                    "temp": 33.32,
-                    "hum": 81.0,
+                    "temp": 30.66,
+                    "hum": 28.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 3,
-                    "temp": 33.61,
-                    "hum": 79.5,
+                    "temp": 29.86,
+                    "hum": 32.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 4,
-                    "temp": 33.79,
-                    "hum": 78.0,
+                    "temp": 29.06,
+                    "hum": 36.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 5,
-                    "temp": 33.82,
-                    "hum": 76.5,
+                    "temp": 28.26,
+                    "hum": 40.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 6,
-                    "temp": 33.7,
-                    "hum": 75.0,
+                    "temp": 27.46,
+                    "hum": 44.0,
                     "rain": 0.0
                 }
             ],
@@ -1308,48 +1308,48 @@
         },
         {
             "district": "Theni",
-            "temp": 32.79,
+            "temp": 32.46,
             "forecast": [
                 {
                     "hour": 0,
-                    "temp": 32.79,
-                    "hum": 84.0,
+                    "temp": 32.46,
+                    "hum": 20.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 1,
-                    "temp": 33.28,
-                    "hum": 82.5,
+                    "temp": 31.66,
+                    "hum": 24.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 2,
-                    "temp": 33.71,
-                    "hum": 81.0,
+                    "temp": 30.86,
+                    "hum": 28.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 3,
-                    "temp": 34.04,
-                    "hum": 79.5,
+                    "temp": 30.06,
+                    "hum": 32.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 4,
-                    "temp": 34.24,
-                    "hum": 78.0,
+                    "temp": 29.26,
+                    "hum": 36.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 5,
-                    "temp": 34.27,
-                    "hum": 76.5,
+                    "temp": 28.46,
+                    "hum": 40.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 6,
-                    "temp": 34.15,
-                    "hum": 75.0,
+                    "temp": 27.66,
+                    "hum": 44.0,
                     "rain": 0.0
                 }
             ],
@@ -1358,48 +1358,48 @@
         },
         {
             "district": "Thoothukudi",
-            "temp": 30.57,
+            "temp": 30.78,
             "forecast": [
                 {
                     "hour": 0,
-                    "temp": 30.57,
-                    "hum": 84.0,
+                    "temp": 30.78,
+                    "hum": 20.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 1,
-                    "temp": 30.61,
-                    "hum": 82.5,
+                    "temp": 29.98,
+                    "hum": 24.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 2,
-                    "temp": 30.64,
-                    "hum": 81.0,
+                    "temp": 29.18,
+                    "hum": 28.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 3,
-                    "temp": 30.66,
-                    "hum": 79.5,
+                    "temp": 28.38,
+                    "hum": 32.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 4,
-                    "temp": 30.68,
-                    "hum": 78.0,
+                    "temp": 27.58,
+                    "hum": 36.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 5,
-                    "temp": 30.68,
-                    "hum": 76.5,
+                    "temp": 26.78,
+                    "hum": 40.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 6,
-                    "temp": 30.67,
-                    "hum": 75.0,
+                    "temp": 25.98,
+                    "hum": 44.0,
                     "rain": 0.0
                 }
             ],
@@ -1408,48 +1408,48 @@
         },
         {
             "district": "Tiruchirappalli",
-            "temp": 32.45,
+            "temp": 32.2,
             "forecast": [
                 {
                     "hour": 0,
-                    "temp": 32.45,
-                    "hum": 84.0,
+                    "temp": 32.2,
+                    "hum": 20.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 1,
-                    "temp": 32.87,
-                    "hum": 82.5,
+                    "temp": 31.4,
+                    "hum": 24.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 2,
-                    "temp": 33.24,
-                    "hum": 81.0,
+                    "temp": 30.6,
+                    "hum": 28.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 3,
-                    "temp": 33.53,
-                    "hum": 79.5,
+                    "temp": 29.8,
+                    "hum": 32.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 4,
-                    "temp": 33.7,
-                    "hum": 78.0,
+                    "temp": 29.0,
+                    "hum": 36.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 5,
-                    "temp": 33.73,
-                    "hum": 76.5,
+                    "temp": 28.2,
+                    "hum": 40.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 6,
-                    "temp": 33.62,
-                    "hum": 75.0,
+                    "temp": 27.4,
+                    "hum": 44.0,
                     "rain": 0.0
                 }
             ],
@@ -1458,49 +1458,49 @@
         },
         {
             "district": "Tirunelveli",
-            "temp": 32.82,
+            "temp": 32.52,
             "forecast": [
                 {
                     "hour": 0,
-                    "temp": 32.82,
-                    "hum": 84.0,
-                    "rain": 0.03
+                    "temp": 32.52,
+                    "hum": 20.0,
+                    "rain": 0.0
                 },
                 {
                     "hour": 1,
-                    "temp": 33.31,
-                    "hum": 82.5,
-                    "rain": 0.03
+                    "temp": 31.72,
+                    "hum": 24.0,
+                    "rain": 0.0
                 },
                 {
                     "hour": 2,
-                    "temp": 33.75,
-                    "hum": 81.0,
-                    "rain": 0.03
+                    "temp": 30.92,
+                    "hum": 28.0,
+                    "rain": 0.0
                 },
                 {
                     "hour": 3,
-                    "temp": 34.09,
-                    "hum": 79.5,
-                    "rain": 0.03
+                    "temp": 30.12,
+                    "hum": 32.0,
+                    "rain": 0.0
                 },
                 {
                     "hour": 4,
-                    "temp": 34.29,
-                    "hum": 78.0,
-                    "rain": 0.03
+                    "temp": 29.32,
+                    "hum": 36.0,
+                    "rain": 0.0
                 },
                 {
                     "hour": 5,
-                    "temp": 34.32,
-                    "hum": 76.5,
-                    "rain": 0.03
+                    "temp": 28.52,
+                    "hum": 40.0,
+                    "rain": 0.0
                 },
                 {
                     "hour": 6,
-                    "temp": 34.19,
-                    "hum": 75.0,
-                    "rain": 0.03
+                    "temp": 27.72,
+                    "hum": 44.0,
+                    "rain": 0.0
                 }
             ],
             "lat": 11.01,
@@ -1508,48 +1508,48 @@
         },
         {
             "district": "Tirupathur",
-            "temp": 30.57,
+            "temp": 30.78,
             "forecast": [
                 {
                     "hour": 0,
-                    "temp": 30.57,
-                    "hum": 84.0,
+                    "temp": 30.78,
+                    "hum": 20.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 1,
-                    "temp": 30.61,
-                    "hum": 82.5,
+                    "temp": 29.98,
+                    "hum": 24.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 2,
-                    "temp": 30.64,
-                    "hum": 81.0,
+                    "temp": 29.18,
+                    "hum": 28.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 3,
-                    "temp": 30.66,
-                    "hum": 79.5,
+                    "temp": 28.38,
+                    "hum": 32.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 4,
-                    "temp": 30.68,
-                    "hum": 78.0,
+                    "temp": 27.58,
+                    "hum": 36.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 5,
-                    "temp": 30.68,
-                    "hum": 76.5,
+                    "temp": 26.78,
+                    "hum": 40.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 6,
-                    "temp": 30.67,
-                    "hum": 75.0,
+                    "temp": 25.98,
+                    "hum": 44.0,
                     "rain": 0.0
                 }
             ],
@@ -1558,48 +1558,48 @@
         },
         {
             "district": "Tiruppur",
-            "temp": 32.44,
+            "temp": 32.16,
             "forecast": [
                 {
                     "hour": 0,
-                    "temp": 32.44,
-                    "hum": 84.0,
+                    "temp": 32.16,
+                    "hum": 20.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 1,
-                    "temp": 32.86,
-                    "hum": 82.5,
+                    "temp": 31.36,
+                    "hum": 24.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 2,
-                    "temp": 33.23,
-                    "hum": 81.0,
+                    "temp": 30.56,
+                    "hum": 28.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 3,
-                    "temp": 33.51,
-                    "hum": 79.5,
+                    "temp": 29.76,
+                    "hum": 32.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 4,
-                    "temp": 33.68,
-                    "hum": 78.0,
+                    "temp": 28.96,
+                    "hum": 36.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 5,
-                    "temp": 33.71,
-                    "hum": 76.5,
+                    "temp": 28.16,
+                    "hum": 40.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 6,
-                    "temp": 33.6,
-                    "hum": 75.0,
+                    "temp": 27.36,
+                    "hum": 44.0,
                     "rain": 0.0
                 }
             ],
@@ -1608,49 +1608,49 @@
         },
         {
             "district": "Tiruvallur",
-            "temp": 32.83,
+            "temp": 32.52,
             "forecast": [
                 {
                     "hour": 0,
-                    "temp": 32.83,
-                    "hum": 84.0,
-                    "rain": 0.05
+                    "temp": 32.52,
+                    "hum": 20.0,
+                    "rain": 0.0
                 },
                 {
                     "hour": 1,
-                    "temp": 33.33,
-                    "hum": 82.5,
-                    "rain": 0.05
+                    "temp": 31.72,
+                    "hum": 24.0,
+                    "rain": 0.0
                 },
                 {
                     "hour": 2,
-                    "temp": 33.77,
-                    "hum": 81.0,
-                    "rain": 0.05
+                    "temp": 30.92,
+                    "hum": 28.0,
+                    "rain": 0.0
                 },
                 {
                     "hour": 3,
-                    "temp": 34.12,
-                    "hum": 79.5,
-                    "rain": 0.05
+                    "temp": 30.12,
+                    "hum": 32.0,
+                    "rain": 0.0
                 },
                 {
                     "hour": 4,
-                    "temp": 34.31,
-                    "hum": 78.0,
-                    "rain": 0.05
+                    "temp": 29.32,
+                    "hum": 36.0,
+                    "rain": 0.0
                 },
                 {
                     "hour": 5,
-                    "temp": 34.35,
-                    "hum": 76.5,
-                    "rain": 0.05
+                    "temp": 28.52,
+                    "hum": 40.0,
+                    "rain": 0.0
                 },
                 {
                     "hour": 6,
-                    "temp": 34.22,
-                    "hum": 75.0,
-                    "rain": 0.05
+                    "temp": 27.72,
+                    "hum": 44.0,
+                    "rain": 0.0
                 }
             ],
             "lat": 11.01,
@@ -1658,48 +1658,48 @@
         },
         {
             "district": "Tiruvannamalai",
-            "temp": 30.57,
+            "temp": 30.79,
             "forecast": [
                 {
                     "hour": 0,
-                    "temp": 30.57,
-                    "hum": 84.0,
+                    "temp": 30.79,
+                    "hum": 20.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 1,
-                    "temp": 30.61,
-                    "hum": 82.5,
+                    "temp": 29.99,
+                    "hum": 24.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 2,
-                    "temp": 30.64,
-                    "hum": 81.0,
+                    "temp": 29.19,
+                    "hum": 28.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 3,
-                    "temp": 30.67,
-                    "hum": 79.5,
+                    "temp": 28.39,
+                    "hum": 32.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 4,
-                    "temp": 30.68,
-                    "hum": 78.0,
+                    "temp": 27.59,
+                    "hum": 36.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 5,
-                    "temp": 30.69,
-                    "hum": 76.5,
+                    "temp": 26.79,
+                    "hum": 40.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 6,
-                    "temp": 30.68,
-                    "hum": 75.0,
+                    "temp": 25.99,
+                    "hum": 44.0,
                     "rain": 0.0
                 }
             ],
@@ -1708,48 +1708,48 @@
         },
         {
             "district": "Tiruvarur",
-            "temp": 32.43,
+            "temp": 32.14,
             "forecast": [
                 {
                     "hour": 0,
-                    "temp": 32.43,
-                    "hum": 84.0,
+                    "temp": 32.14,
+                    "hum": 20.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 1,
-                    "temp": 32.84,
-                    "hum": 82.5,
+                    "temp": 31.34,
+                    "hum": 24.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 2,
-                    "temp": 33.21,
-                    "hum": 81.0,
+                    "temp": 30.54,
+                    "hum": 28.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 3,
-                    "temp": 33.49,
-                    "hum": 79.5,
+                    "temp": 29.74,
+                    "hum": 32.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 4,
-                    "temp": 33.66,
-                    "hum": 78.0,
+                    "temp": 28.94,
+                    "hum": 36.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 5,
-                    "temp": 33.69,
-                    "hum": 76.5,
+                    "temp": 28.14,
+                    "hum": 40.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 6,
-                    "temp": 33.58,
-                    "hum": 75.0,
+                    "temp": 27.34,
+                    "hum": 44.0,
                     "rain": 0.0
                 }
             ],
@@ -1758,48 +1758,48 @@
         },
         {
             "district": "Vellore",
-            "temp": 35.28,
+            "temp": 34.0,
             "forecast": [
                 {
                     "hour": 0,
-                    "temp": 35.28,
-                    "hum": 84.0,
+                    "temp": 34.0,
+                    "hum": 20.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 1,
-                    "temp": 35.77,
-                    "hum": 82.5,
+                    "temp": 33.2,
+                    "hum": 24.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 2,
-                    "temp": 36.2,
-                    "hum": 81.0,
+                    "temp": 32.4,
+                    "hum": 28.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 3,
-                    "temp": 36.53,
-                    "hum": 79.5,
+                    "temp": 31.6,
+                    "hum": 32.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 4,
-                    "temp": 36.73,
-                    "hum": 78.0,
+                    "temp": 30.8,
+                    "hum": 36.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 5,
-                    "temp": 36.76,
-                    "hum": 76.5,
+                    "temp": 30.0,
+                    "hum": 40.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 6,
-                    "temp": 36.64,
-                    "hum": 75.0,
+                    "temp": 29.2,
+                    "hum": 44.0,
                     "rain": 0.0
                 }
             ],
@@ -1808,48 +1808,48 @@
         },
         {
             "district": "Viluppuram",
-            "temp": 30.8,
+            "temp": 30.94,
             "forecast": [
                 {
                     "hour": 0,
-                    "temp": 30.8,
-                    "hum": 84.0,
+                    "temp": 30.94,
+                    "hum": 20.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 1,
-                    "temp": 30.88,
-                    "hum": 82.5,
+                    "temp": 30.14,
+                    "hum": 24.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 2,
-                    "temp": 30.95,
-                    "hum": 81.0,
+                    "temp": 29.34,
+                    "hum": 28.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 3,
-                    "temp": 31.01,
-                    "hum": 79.5,
+                    "temp": 28.54,
+                    "hum": 32.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 4,
-                    "temp": 31.04,
-                    "hum": 78.0,
+                    "temp": 27.74,
+                    "hum": 36.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 5,
-                    "temp": 31.04,
-                    "hum": 76.5,
+                    "temp": 26.94,
+                    "hum": 40.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 6,
-                    "temp": 31.02,
-                    "hum": 75.0,
+                    "temp": 26.14,
+                    "hum": 44.0,
                     "rain": 0.0
                 }
             ],
@@ -1858,48 +1858,48 @@
         },
         {
             "district": "Virudhunagar",
-            "temp": 32.6,
+            "temp": 32.35,
             "forecast": [
                 {
                     "hour": 0,
-                    "temp": 32.6,
-                    "hum": 84.0,
+                    "temp": 32.35,
+                    "hum": 20.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 1,
-                    "temp": 33.05,
-                    "hum": 82.5,
+                    "temp": 31.55,
+                    "hum": 24.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 2,
-                    "temp": 33.45,
-                    "hum": 81.0,
+                    "temp": 30.75,
+                    "hum": 28.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 3,
-                    "temp": 33.75,
-                    "hum": 79.5,
+                    "temp": 29.95,
+                    "hum": 32.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 4,
-                    "temp": 33.93,
-                    "hum": 78.0,
+                    "temp": 29.15,
+                    "hum": 36.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 5,
-                    "temp": 33.97,
-                    "hum": 76.5,
+                    "temp": 28.35,
+                    "hum": 40.0,
                     "rain": 0.0
                 },
                 {
                     "hour": 6,
-                    "temp": 33.85,
-                    "hum": 75.0,
+                    "temp": 27.55,
+                    "hum": 44.0,
                     "rain": 0.0
                 }
             ],
@@ -1908,49 +1908,49 @@
         },
         {
             "district": "Puducherry",
-            "temp": 32.83,
+            "temp": 32.43,
             "forecast": [
                 {
                     "hour": 0,
-                    "temp": 32.83,
-                    "hum": 84.0,
-                    "rain": 0.04
+                    "temp": 32.43,
+                    "hum": 20.0,
+                    "rain": 0.0
                 },
                 {
                     "hour": 1,
-                    "temp": 33.32,
-                    "hum": 82.5,
-                    "rain": 0.04
+                    "temp": 31.63,
+                    "hum": 24.0,
+                    "rain": 0.0
                 },
                 {
                     "hour": 2,
-                    "temp": 33.77,
-                    "hum": 81.0,
-                    "rain": 0.04
+                    "temp": 30.83,
+                    "hum": 28.0,
+                    "rain": 0.0
                 },
                 {
                     "hour": 3,
-                    "temp": 34.11,
-                    "hum": 79.5,
-                    "rain": 0.04
+                    "temp": 30.03,
+                    "hum": 32.0,
+                    "rain": 0.0
                 },
                 {
                     "hour": 4,
-                    "temp": 34.3,
-                    "hum": 78.0,
-                    "rain": 0.04
+                    "temp": 29.23,
+                    "hum": 36.0,
+                    "rain": 0.0
                 },
                 {
                     "hour": 5,
-                    "temp": 34.34,
-                    "hum": 76.5,
-                    "rain": 0.04
+                    "temp": 28.43,
+                    "hum": 40.0,
+                    "rain": 0.0
                 },
                 {
                     "hour": 6,
-                    "temp": 34.21,
-                    "hum": 75.0,
-                    "rain": 0.04
+                    "temp": 27.63,
+                    "hum": 44.0,
+                    "rain": 0.0
                 }
             ],
             "lat": 11.01,
