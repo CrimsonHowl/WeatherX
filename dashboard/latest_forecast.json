@@ -1,242 +1,242 @@
 {
-    "timestamp": "2026-03-27T15:27:13.745743",
+    "timestamp": "2026-03-27T15:34:21.243903",
     "seed_station": {
-        "temp": 32.46,
+        "temp": 32.43,
         "hum": 65.0,
         "source": "BME280-Hardware"
     },
     "forecasts": [
         {
             "district": "Ariyalur",
-            "temp": 32.73,
+            "temp": 34.15,
             "lat": 11.01,
             "lon": 76.95
         },
         {
             "district": "Chengalpattu",
-            "temp": 26.7,
+            "temp": 56.5,
             "lat": 11.01,
             "lon": 76.95
         },
         {
             "district": "Chennai",
-            "temp": 24.5,
+            "temp": 56.27,
             "lat": 13.08,
             "lon": 80.27
         },
         {
             "district": "Coimbatore",
-            "temp": 32.93,
+            "temp": 31.71,
             "lat": 11.01,
             "lon": 76.95
         },
         {
             "district": "Cuddalore",
-            "temp": 26.54,
+            "temp": 56.33,
             "lat": 11.01,
             "lon": 76.95
         },
         {
             "district": "Dharmapuri",
-            "temp": 23.07,
+            "temp": 52.84,
             "lat": 11.01,
             "lon": 76.95
         },
         {
             "district": "Dindigul",
-            "temp": 33.0,
+            "temp": 31.61,
             "lat": 11.01,
             "lon": 76.95
         },
         {
             "district": "Erode",
-            "temp": 27.22,
+            "temp": 57.01,
             "lat": 11.01,
             "lon": 76.95
         },
         {
             "district": "Kallakurichi",
-            "temp": 22.58,
+            "temp": 52.35,
             "lat": 11.01,
             "lon": 76.95
         },
         {
             "district": "Kanchipuram",
-            "temp": 32.42,
+            "temp": 34.15,
             "lat": 11.01,
             "lon": 76.95
         },
         {
             "district": "Kanyakumari",
-            "temp": 26.7,
+            "temp": 56.5,
             "lat": 11.01,
             "lon": 76.95
         },
         {
             "district": "Karur",
-            "temp": 24.5,
+            "temp": 54.27,
             "lat": 11.01,
             "lon": 76.95
         },
         {
             "district": "Krishnagiri",
-            "temp": 31.91,
+            "temp": 31.71,
             "lat": 11.01,
             "lon": 76.95
         },
         {
             "district": "Madurai",
-            "temp": 26.54,
+            "temp": 56.33,
             "lat": 11.01,
             "lon": 76.95
         },
         {
             "district": "Mayiladuthurai",
-            "temp": 23.07,
+            "temp": 52.84,
             "lat": 11.01,
             "lon": 76.95
         },
         {
             "district": "Nagapattinam",
-            "temp": 33.24,
+            "temp": 31.61,
             "lat": 11.01,
             "lon": 76.95
         },
         {
             "district": "Namakkal",
-            "temp": 27.22,
+            "temp": 57.01,
             "lat": 11.01,
             "lon": 76.95
         },
         {
             "district": "Nilgiris",
-            "temp": 22.58,
+            "temp": 47.35,
             "lat": 11.01,
             "lon": 76.95
         },
         {
             "district": "Perambalur",
-            "temp": 33.21,
+            "temp": 34.15,
             "lat": 11.01,
             "lon": 76.95
         },
         {
             "district": "Pudukkottai",
-            "temp": 26.7,
+            "temp": 56.5,
             "lat": 11.01,
             "lon": 76.95
         },
         {
             "district": "Ramanathapuram",
-            "temp": 24.5,
+            "temp": 54.27,
             "lat": 11.01,
             "lon": 76.95
         },
         {
             "district": "Ranipet",
-            "temp": 32.4,
+            "temp": 31.71,
             "lat": 11.01,
             "lon": 76.95
         },
         {
             "district": "Salem",
-            "temp": 26.54,
+            "temp": 56.33,
             "lat": 11.01,
             "lon": 76.95
         },
         {
             "district": "Sivaganga",
-            "temp": 23.07,
+            "temp": 52.84,
             "lat": 11.01,
             "lon": 76.95
         },
         {
             "district": "Tenkasi",
-            "temp": 32.99,
+            "temp": 31.61,
             "lat": 11.01,
             "lon": 76.95
         },
         {
             "district": "Thanjavur",
-            "temp": 27.22,
+            "temp": 57.01,
             "lat": 11.01,
             "lon": 76.95
         },
         {
             "district": "Theni",
-            "temp": 22.58,
+            "temp": 52.35,
             "lat": 11.01,
             "lon": 76.95
         },
         {
             "district": "Thoothukudi",
-            "temp": 31.83,
+            "temp": 34.15,
             "lat": 11.01,
             "lon": 76.95
         },
         {
             "district": "Tiruchirappalli",
-            "temp": 26.7,
+            "temp": 56.5,
             "lat": 11.01,
             "lon": 76.95
         },
         {
             "district": "Tirunelveli",
-            "temp": 24.5,
+            "temp": 54.27,
             "lat": 11.01,
             "lon": 76.95
         },
         {
             "district": "Tirupathur",
-            "temp": 33.08,
+            "temp": 31.71,
             "lat": 11.01,
             "lon": 76.95
         },
         {
             "district": "Tiruppur",
-            "temp": 26.54,
+            "temp": 56.33,
             "lat": 11.01,
             "lon": 76.95
         },
         {
             "district": "Tiruvallur",
-            "temp": 23.07,
+            "temp": 52.84,
             "lat": 11.01,
             "lon": 76.95
         },
         {
             "district": "Tiruvannamalai",
-            "temp": 32.42,
+            "temp": 31.61,
             "lat": 11.01,
             "lon": 76.95
         },
         {
             "district": "Tiruvarur",
-            "temp": 27.22,
+            "temp": 57.01,
             "lat": 11.01,
             "lon": 76.95
         },
         {
             "district": "Vellore",
-            "temp": 22.58,
+            "temp": 52.35,
             "lat": 11.01,
             "lon": 76.95
         },
         {
             "district": "Viluppuram",
-            "temp": 32.02,
+            "temp": 34.15,
             "lat": 11.01,
             "lon": 76.95
         },
         {
             "district": "Virudhunagar",
-            "temp": 26.7,
+            "temp": 56.5,
             "lat": 11.01,
             "lon": 76.95
         },
         {
             "district": "Puducherry",
-            "temp": 24.5,
+            "temp": 54.27,
             "lat": 11.01,
             "lon": 76.95
         }
