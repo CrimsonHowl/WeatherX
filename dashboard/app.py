@@ -99,17 +99,19 @@ def normalize_data(data):
     if 'forecasts' in data and not norm['districts']:
         for f in data['forecasts']:
             d_name = f.get('district', 'Unknown')
-            # Create 6-hour neural projection (simulated from single point)
-            f_list = []
-            base_temp = f.get('temp', 28.0)
-            base_hum = f.get('hum', 55.0)
-            for h in range(1, 7):
-                f_list.append({
-                    "hour": h,
-                    "temp": round(base_temp + (h * 0.2), 2),
-                    "hum": round(base_hum - (h * 0.5), 1),
-                    "rain": f.get('rain', 0.0)
-                })
+            # Use the 6-hour neural projection provided by the Pi
+            f_list = f.get('forecast', [])
+            if not f_list:
+                # Fallback if Pi only sends a single point (Legacy support)
+                base_temp = f.get('temp', 28.0)
+                base_hum = f.get('hum', 55.0)
+                for h in range(0, 7):
+                    f_list.append({
+                        "hour": h,
+                        "temp": round(base_temp + (h * 0.1), 2),
+                        "hum": round(base_hum - (h * 0.3), 1),
+                        "rain": f.get('rain', 0.0)
+                    })
             norm['districts'][d_name] = {"current": f_list[0], "forecast": f_list}
 
     # 3. Handle Legacy Districts Mapping (if provided)
@@ -203,8 +205,8 @@ st.markdown("---")
 st.subheader(f"📊 {sel}: Neural Trend Trends")
 df_f = pd.DataFrame(data['districts'][sel]['forecast'])
 fig = go.Figure()
-fig.add_trace(go.Scatter(x=df_f['hour'], y=df_f['temp'], name='Temp (°C)', line=dict(color='#00d2ff', width=6), mode='lines+markers'))
-fig.add_trace(go.Scatter(x=df_f['hour'], y=df_f['hum'], name='Hum (%)', line=dict(color='#a18cd1', width=3, dash='dot'), mode='lines+markers', yaxis='y2'))
+fig.add_trace(go.Scatter(x=df_f['hour'], y=df_f['temp'], name='Temp (°C)', line=dict(color='#00d2ff', width=6, shape='spline'), mode='lines+markers'))
+fig.add_trace(go.Scatter(x=df_f['hour'], y=df_f['hum'], name='Hum (%)', line=dict(color='#a18cd1', width=3, dash='dot', shape='spline'), mode='lines+markers', yaxis='y2'))
 fig.update_layout(template="plotly_dark", plot_bgcolor="rgba(0,0,0,0)", paper_bgcolor="rgba(0,0,0,0)", 
                   yaxis=dict(title="Temperature (°C)", title_font=dict(color="#00d2ff")), 
                   yaxis2=dict(title="Humidity (%)", overlaying="y", side="right"),
