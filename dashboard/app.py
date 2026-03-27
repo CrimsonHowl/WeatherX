@@ -14,7 +14,7 @@ st.set_page_config(
 )
 
 # 🔗 GITHUB CONFIG
-GITHUB_RAW_URL = "https://raw.githubusercontent.com/logan-weatherx/weatherX/main/dashboard/latest_forecast.json"
+GITHUB_RAW_URL = "https://raw.githubusercontent.com/CrimsonHowl/weatherX/main/dashboard/latest_forecast.json"
 
 # Regional Mapping
 COASTAL = ["Chennai", "Chengalpattu", "Cuddalore", "Kancheepuram", "Kanniyakumari", "Mayiladuthurai", "Nagapattinam", "Puducherry", "Ramanathapuram", "Thanjavur", "Thoothukudi", "Tiruvallur", "Tiruvarur", "Villupuram"]
