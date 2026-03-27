@@ -1,7 +1,7 @@
 {
-    "timestamp": "2026-03-27T14:11:49.419595",
+    "timestamp": "2026-03-27T14:13:43.320912",
     "seed_station": {
-        "temp": 32.21,
+        "temp": 32.32,
         "hum": 0.0,
         "source": "BME280-Hardware"
     },
@@ -20,7 +20,7 @@
         },
         {
             "district": "Chennai",
-            "temp": 16.16,
+            "temp": 16.17,
             "lat": 13.08,
             "lon": 80.27
         },
